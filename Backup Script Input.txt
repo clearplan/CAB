@@ -1,0 +1,14 @@
+[Process01]
+ProcessID=BackupProject
+Project=AQUILAONE
+Destination=C:\Users\michaelstricklin\Desktop\Backup Output\
+
+[Process02]
+ProcessID=BackupProject
+Project=AQUILATWO
+Destination=C:\Users\michaelstricklin\Desktop\Backup Output\
+
+[Process03]
+ProcessID=BackupProject
+Project=Quadcopter
+Destination=C:\Users\michaelstricklin\Desktop\Backup Output\Subfolder
